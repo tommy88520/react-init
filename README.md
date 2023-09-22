@@ -1,4 +1,4 @@
-<h1 align='center'>Vite + React + TypeScript + Eslint + Prettier Template ⚡</h1>
+<h1 align='center'>Vite + React + TypeScript + Eslint + Prettier + Sass Template ⚡</h1>
 
 Create a new project with Vite, React JS, TypeScript, Eslint, Prettier, sass in just 1 second and you don't need to setup anything.
 
