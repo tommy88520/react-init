@@ -1,8 +1,6 @@
 <h1 align='center'>Vite + React + TypeScript + Eslint + Prettier Template ⚡</h1>
 
-Create a new project with Vite, React JS, TypeScript, Eslint, Prettier in just 1 second and you don't need to setup anything.
-
-#### **Vercel Deploy: https://vite-react-ts-eslint-prettier.vercel.app**
+Create a new project with Vite, React JS, TypeScript, Eslint, Prettier, sass in just 1 second and you don't need to setup anything.
 
 ![image](https://user-images.githubusercontent.com/70432453/170648662-2ff424b9-74e9-4754-a04d-512fe1496a3b.png)
 
@@ -27,7 +25,7 @@ Etc...
 1. Clone Template
 
 ```
-git clone https://github.com/igdev116/vite-react-ts-eslint-prettier.git
+git clone git@github.com:tommy88520/react-init.git
 ```
 
 2. Install Packages
@@ -40,12 +38,6 @@ yarn install
 
 ```
 yarn dev
-```
-
-4. If you using git, delete the existing folder .git after cloning (open `git bash` or other terminal)
-
-```
-rm -rf .git
 ```
 
 ## **Options ✍️**
