@@ -1,17 +1,9 @@
 import logo from '~/logo.svg';
+import './hello.scss';
 
 const Hello = () => {
   return (
-    <div
-      style={{
-        display: 'flex',
-        flexDirection: 'column',
-        alignItems: 'center',
-        justifyContent: 'center',
-        textAlign: 'center',
-        paddingTop: '50px',
-      }}
-    >
+    <div className='container'>
       <img src={logo} alt='Logo' style={{ height: '150px' }} />
       <ul
         style={{
